@@ -7,6 +7,9 @@ Welcome to the "All About LLMs" repository! This repository is a comprehensive c
 - 📚 **Introduction to LLMs**: Dive into the basics of Large Language Models, understand their significance, applications, and the advancements they have brought to the field of Natural Language Processing (NLP).
 
 - 📝 **Tutorials and Guides**: Access a curated selection of tutorials and guides that walk you through the process of working with LLMs. Learn how to fine-tune models, generate text, and leverage pre-trained models effectively.
+> [Comprehensive Course on Large Language Models by Databricks](https://github.com/databricks-academy/large-language-models)
+
+
 
 - 🔬 **Research Papers**: Explore seminal research papers that have shaped the development and understanding of LLMs. Delve into the evolution of architectures, training strategies, and applications.
 
